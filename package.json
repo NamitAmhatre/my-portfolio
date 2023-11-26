@@ -10,6 +10,7 @@
   },
   "scripts": {
     "build": "nest build",
+    "bin": "nest",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
     "start": "nest start",
     "start:dev": "nest start --watch",
